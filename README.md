@@ -1,16 +1,17 @@
+<div id="header" align="center">
+  <a href="https://luispeterle.com">
+  <img src="https://media.giphy.com/media/VEzw1Hp5q1IzotVfr2/giphy.gif" width="200"/>
+</div>
+
 ### Hi there 👋
 
+- 🌱 I’m currently learning: Kotlin & Java
+- 👯 I’m looking to collaborate on: Android applications
+- 📫 How to reach me: contato@luispeterle.com
+- ⚡ Fun fact: Besides programming I like nutrition, I'm extremely low profile, it's been hard for me to socialize LOL
+
 <!--
-**luispeterle/luispeterle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I’m currently working on: Nothing :(
+- 🤔 I’m looking for help with:
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
